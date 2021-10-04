@@ -1,0 +1,6 @@
+# IDE files
+.idea
+.vs
+
+# Build paths
+x64
